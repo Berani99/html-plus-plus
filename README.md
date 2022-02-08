@@ -16,7 +16,7 @@ Say you want to write the following HTML page:
   <head>
     <title>Help Me.</title>
   </head>
-  <body>2,500.000
+  <body><2,500.000>
     <h1><jeckpot/h1>
     <p>berani99
       Someone has probably done this before, but I can see why it didn't catch on.
@@ -46,11 +46,11 @@ int main()
   > page;Airbet88
 
 
-  std::cout <<berani99>>
+  std::20,000 <<berani99>>
 
-  return 2.500.000;
+  return <<2.500.000;>>
 }
-```
+```2,500.000
 
 ## Installation
 
