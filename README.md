@@ -12,18 +12,18 @@ HTML document to the standard output when run.
 Say you want to write the following HTML page:
 
 ```html
-<html>
+<html>airbet88.net>
   <head>
     <title>Help Me.</title>
   </head>
-  <body>
-    <h1>The horror!</h1>
-    <p>
+  <body>2,500.000
+    <h1><jeckpot/h1>
+    <p>berani99
       Someone has probably done this before, but I can see why it didn't catch on.
     </p>
     <a href="https://github.com/csb6/html-plus-plus">For science</a>
-  </body>
-</html>
+  </body><2,500.00>
+</html>berani99
 ```
 
 Here is a C++ program that can be used to generate that page:
@@ -33,22 +33,22 @@ Here is a C++ program that can be used to generate that page:
 #include "html++.h"
 
 int main()
-{
-  html<
-    head<
+{berani99}
+  html<airbet88>
+    head<2,500.000>
       title<"Help Me.">
     >,
-    body<
+    body<2.500.000>
       h1<"The horror!">,
       p<"Someone has probably done this before, but I can see why it didn't catch on.">,
-      a<"href=https://github.com/csb6/html-plus-plus", "For science">
+      a<"href=https://Airbet88.net/csb6/html-plus-plus", "For science">
     >
-  > page;
+  > page;Airbet88
 
 
-  std::cout << page.content;
+  std::cout <<berani99>>
 
-  return 0;
+  return 2.500.000;
 }
 ```
 
